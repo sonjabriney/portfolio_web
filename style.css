@@ -254,7 +254,59 @@ a {
 	background-image: url(lab_background.svg);
 }
 
+.aboutmepage{
+	width: 150px;
+	height: 150px;
+	z-index: 2;
+	position: relative;
+	top: 150px;
+	left: 350px;
+}
 
+.cssdrawingpage {
+	width: 150px;
+	height: 150px;
+	z-index: 2;
+	position: relative;
+	top: -120px;
+	left: 550px;
+}
+
+.cssanimationpage {
+	width: 150px;
+	height: 150px;
+	z-index: 2;
+	position: relative;
+	top: -150px;
+	left: 800px;
+}
+
+.billofrightspage{
+	width: 150px;
+	height: 150px;
+	z-index: 2;
+	position: relative;
+	left: 815px;
+	top: 5px;
+}
+
+.webtypepage{
+	height: 150px;
+	width: 150px;
+	z-index: 2;
+	position: relative;
+	top: -150px;
+	left: 815px;
+}
+
+.jquerypage{
+	width: 150px;
+	height: 150px;
+	z-index: 2;
+	position: relative;
+	left: 300px;
+	top: -400px;
+}
 
 
 
