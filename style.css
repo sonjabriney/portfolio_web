@@ -66,18 +66,18 @@ a {
 .editoriallink {
 	height: 200px;
 	width: 200px;
-	z-index: 2;
+	z-index: 3;
 	position: relative;
-	top: 165px;
-	left: 275px;
+	top: -165px;
+	left: 300px;
 }
 
 .frictionlink {
 	height: 200px;
 	width: 200px;
-	z-index: 2;
+	z-index: 4;
 	position: relative;
-	top: -50px;
+	top: -350px;
 	left: 500px;
 }
 
