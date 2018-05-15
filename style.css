@@ -1,0 +1,265 @@
+.image {
+	width: 100%;
+	height: 110%;
+	background-image: url(portfolio_home.svg);
+	position: fixed;
+	position: center;
+	z-index: 1;
+}
+
+.image:hover {
+	background-image: url(background_hover.svg);
+	width: 100%;
+	height: 100%; 
+	position: fixed;
+	position: center;
+	z-index: 1; 
+} 
+
+.aboutlink {
+	width: 200px;
+	height: 150px;
+	position: relative;
+	z-index: 2; 
+	left: 550px;
+	top: 250px;
+	color: transparent;
+}
+
+a {
+	width: 200px;
+	height: 150px;
+	position: relative;
+	color: transparent;
+	z-index: 2;
+}
+
+.studiolink {
+	width: 200px;
+	height: 150px;
+	position: relative;
+	z-index: 2;
+	color: transparent;
+	left: 400px;
+	top: 260px;
+}
+
+.lablink {
+	width: 200px;
+	height: 150px;
+	position: relative;
+	z-index: 2;
+	color: transparent;
+	top: 120px;
+	left: 655px;
+}
+
+.interfacelink {
+	height: 250px;
+	width: 250px;
+	z-index: 2;
+	position: relative;
+	top: 300px;
+	left: 35px;
+}
+
+.editoriallink {
+	height: 200px;
+	width: 200px;
+	z-index: 2;
+	position: relative;
+	top: 165px;
+	left: 275px;
+}
+
+.frictionlink {
+	height: 200px;
+	width: 200px;
+	z-index: 2;
+	position: relative;
+	top: -50px;
+	left: 500px;
+}
+
+.strategylink {
+	width: 125px;
+	height: 125px;
+	z-index: 2;
+	position: relative;
+}
+
+.strategylink {
+	width: 125px;
+	height: 125px;
+	z-index: 2;
+	position: relative;
+	top: 100px;
+	left: 650px;
+}
+
+.inspirationlink{
+	width: 125px;
+	height: 125px;
+	z-index: 2;
+	position: relative;
+	top: 100px;
+	left: -100px;
+}
+
+.studioimage {
+	width: 60%;
+	height: 100%; 
+	left: 250px;
+	top: 75px;
+	position: absolute;
+	position: center;
+	z-index: 1; 
+	background-image: url(studio_background.svg);
+}
+
+.inspirationimage {
+	width: 950%; 
+	height: 100%; 
+	position: fixed;
+	position: center;
+	background-image: url(inspiration_page.svg);
+}
+
+
+.inspiration1{
+	position: relative;
+	z-index: 2;
+	height: 75px;
+	width: 75px;
+	top: 50px;
+	left: 50px;
+
+}
+
+.inspiration2{
+	position: relative;
+	z-index: 2;
+	height: 75px;
+	width: 75px;
+	left: 50px;
+	top: 100px;
+}
+
+.inspiration3{
+	position: relative;
+	z-index: 2;
+	height: 75px;
+	width: 75px;
+}
+
+.inspiration4{
+	position: relative;
+	z-index: 2;
+	height: 75px;
+	width: 75px;
+}
+
+.inspiration5{
+	position: relative;
+	z-index: 2;
+	height: 75px;
+	width: 75px;
+}
+
+.inspiration6{
+	position: relative;
+	z-index: 2;
+	height: 75px;
+	width: 75px;
+}
+
+.inspiration7{
+	position: relative;
+	z-index: 2;
+	height: 75px;
+	width: 75px;
+}
+
+.inspiration8{
+	position: relative;
+	z-index: 2;
+	height: 75px;
+	width: 75px;
+}
+
+.inspiration9{
+	position: relative;
+	z-index: 2;
+	height: 75px;
+	width: 75px;
+}
+
+.inspiration10{
+	position: relative;
+	z-index: 2;
+	height: 75px;
+	width: 75px;
+}
+
+.inspiration11{
+	position: relative;
+	z-index: 2;
+	height: 75px;
+	width: 75px;
+}
+
+.inspiration12{
+	position: relative;
+	z-index: 2;
+	height: 75px;
+	width: 75px;
+}
+
+.inspiration13{
+	position: relative;
+	z-index: 2;
+	height: 75px;
+	width: 75px;
+}
+
+.inspiration14{
+	position: relative;
+	z-index: 2;
+	height: 75px;
+	width: 75px;
+}
+
+.inspiration15{
+	position: relative;
+	z-index: 2;
+	height: 75px;
+	width: 75px;
+}
+
+.homepage {
+	position: relative;
+	z-index: 2;
+	height: 75px;
+	width: 75px;
+	top: -830px;
+	left: 925px;
+}
+
+.labbackground {
+	width: 100%;
+	height: 100%;
+	z-index: 1;
+	position: fixed;
+	position: center;
+	background-image: url(lab_background.svg);
+}
+
+
+
+
+
+
+
+
+
+
